@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Varun 👋
 
-<!--
-**Varun-Prethiv/Varun-Prethiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd Year CSE Student  
+Learning MERN Stack  
+Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript
+- HTML
+- CSS
+- React (Learning)
+- Node.js (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a Product-Based Company Developer
+- Build 5 Full Stack Projects
