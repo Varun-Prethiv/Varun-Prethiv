@@ -1,16 +1,8 @@
-# Hi, I'm Varun 👋
+Hi, I'm Varun 👋  
 
-2nd Year CSE Student  
-Learning MERN Stack  
-Aspiring Full Stack Developer  
+💻 2nd Year CSE Student  
+🚀 MERN Stack Developer in Progress  
+📚 Currently Learning React & Node.js  
+🎯 Goal: Crack a Product-Based Company  
 
-## Skills
-- JavaScript
-- HTML
-- CSS
-- React (Learning)
-- Node.js (Learning)
-
-## Goals
-- Become a Product-Based Company Developer
-- Build 5 Full Stack Projects
+🔎 Open to Internships & Collaboration
